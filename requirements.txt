@@ -1,0 +1,7 @@
+streamlit==1.26.0
+torch==2.2.0
+torchvision==0.17.0
+numpy
+opencv-python-headless
+Pillow
+transformers
